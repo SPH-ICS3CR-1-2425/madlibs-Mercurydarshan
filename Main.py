@@ -13,7 +13,8 @@ age=input()
 print("Give me a adjective: ")
 adj1= input()
 
-print("Give me a verb: ")
+print("Give me a verb.: ")
+print("Past tence recommended.")
 verb1=input()
 
 print("Give me a food name: ")
@@ -35,4 +36,4 @@ print("Give me a movie: ")
 
 
 
-print("One day",name,",Age",age,  verb1, "over", food1, ".He took his", car, "and his pet",ani1, "to a long drive." "Whey they reach there he took out his phone and start exploring a new country that is",country,"After that he stopped and started watching his favourite TV show",TV, ". Gradually they walked back home looking at the", adj1, "sky. ")
+print("One day",name,",Age",age,  verb1, "over", food1, ".\nHe took his", car, "and his pet",ani1, "to a long drive.\nWhey they reach there he took out his phone and start exploring a new country that is",country,"\nAfter that he stopped and started watching his favourite TV show",TV, ".\n Gradually they walked back home looking at the", adj1, "sky. ")
