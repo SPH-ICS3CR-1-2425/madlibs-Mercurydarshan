@@ -31,5 +31,8 @@ country=input()
 print("Give me a favourite car: ")
 car=input()
 
+print("Give me a movie: ")
 
-print("One day",name,"wrote a Mad Lib for class!")
+
+
+print("One day",name,",Age",age,  verb1, "over", food1, ".He took his", car, "and his pet",ani1, "to a long drive." "Whey they reach there he took out his phone and start exploring a new country that is",country,"After that he stopped and started watching his favourite TV show",TV, ". Gradually they walked back home looking at the", adj1, "sky. ")
