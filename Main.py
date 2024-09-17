@@ -33,6 +33,8 @@ print("Give me a favourite car: ")
 car=input()
 
 print("Give me a movie: ")
+movie=input()
+
 
 
 
